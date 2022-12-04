@@ -19,31 +19,69 @@ thomasbruyelle@hey.com
 
 - Lire du code
 .image codereview.png 200 _
+
+: Définir ce qu'est du code
+: Écrire du code n'est pas forcément une activité solitaire
+: Expliquer la revue de code
+: Pourquoi debugger est une activité essetielle
+: Exemple bouton envoyer vidéo ne fonctionne pas
  
 * Mais c'est aussi être un artisan
 .image artisan.webp
+
+: Construire quelquechose d'utile
 
 * Et un chercheur
 Expérimenter & apprendre
 .image experiment.jpg
 
+: Certains problèmes nécessitent reflexion et recherche
+: Possibilité d'en apprendre toute sa carrière
+: Reprendre analogie artisan, table -> maison -> immeuble
+: L'apprentissage permet d'ouvrir des nouvelles voies dans sa carrière
+
 * Métier gratifiant
 .image medal.jpg 400 _
+
+: En tant qu'artisan on est content de voir le résultat de son travail utile à la communauté
+: En tant que chercheur on est content de trouver la solution 
+: En tant que curieux, on est content de satisfaire sa curiosité
 
 * L'importance de l'environnement
 .image thisisfine.webp 400 _
 
+: Developpeur n'est pas un simple executant
+: Perso: préférer les petites aux grosses structures
+: Ne pas hésiter à changer de société si ça se passe mal
+
 * Avoir un mentor
 .image mentor.jpg 400 _
 
-* Et le social dans tout ça ?
+: La fin des études n'est que le début
+: Permet d'aller plus vite pour comprendre les meilleures pratiques
+: S'assurer d'un mentorat possible lors de l'embauche
+
+* Et l'aspect social dans tout ça ?
 .image social.webp 500 _
+
+: Mythe du développeur isolé dans sa cave
+: Non l'aspect social est très important dans la vie d'un dev
 
 * Comprendre le besoin
 .image project.jpg 600 _
 
+: Le meilleur codeur qui fabrique une ferrari pour un client qui a besoin de traverser un rivière
+
+
 * Travailler en équipe
 .image team.jpg 500 _
+
+: Pair coding
+: Revue de code
+: Bienvaillance
+
+* Évolution de carrière
+.image evo.png 550 _
 
 * Le télétravail
 .image remote.jpg 500 _
